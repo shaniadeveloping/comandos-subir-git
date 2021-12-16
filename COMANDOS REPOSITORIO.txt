@@ -1,0 +1,10 @@
+CREAR REPOSITORIO------------
+	git init
+	git status
+	git add .
+	git config --global user.name "nombre usuario"
+	git config --global user.email "nombre-usuario@correo.com"
+	git commit -m "comentario"
+	git branch -M main
+	git remote add origin https://enlace
+	git push -u origin main
